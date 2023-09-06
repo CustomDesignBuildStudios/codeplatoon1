@@ -1,1 +1,1 @@
-print("Hotdog")
+print("Hotdog 2")
